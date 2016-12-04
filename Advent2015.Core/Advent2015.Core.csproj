@@ -55,6 +55,11 @@
     <Compile Include="Problem5\RegexNiceStringRule.cs" />
     <Compile Include="Problem5\RepeatingLetterWithSeparatorNiceStringRule.cs" />
     <Compile Include="Problem5\ThreeVowelsNiceStringRule.cs" />
+    <Compile Include="Problem6\Coordinate.cs" />
+    <Compile Include="Problem6\CoordinateRectangle.cs" />
+    <Compile Include="Problem6\Instruction.cs" />
+    <Compile Include="Problem6\InstructionReader.cs" />
+    <Compile Include="Problem6\LightGrid.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />

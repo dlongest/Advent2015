@@ -64,6 +64,9 @@
     <Compile Include="Problem3\SantaTests.cs" />
     <Compile Include="Problem4\AdventCoinMinerTests.cs" />
     <Compile Include="Problem5\NiceStringRuleTests.cs" />
+    <Compile Include="Problem6\CoordinateRectangleTests.cs" />
+    <Compile Include="Problem6\InstructionTests.cs" />
+    <Compile Include="Problem6\LightGridTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
